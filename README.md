@@ -1,10 +1,17 @@
 # 🌟 Perfil Técnico: Seguridad Pública 🌟
 
-¡Hola! Soy [Tu Nombre], un desarrollador apasionado por la tecnología aplicada a la **Seguridad Pública** y la mejora de procesos en instituciones gubernamentales y de protección ciudadana. 👮‍♂️🚓
+¡Hola! Soy Lucia, una desarrolladora apasionado por la tecnología aplicada a la **Seguridad Pública** y la mejora de procesos en instituciones gubernamentales y de protección ciudadana. 👮‍♂️🚓
+
+---
+
+![Header](./banner.jpg)
+
+Esta soy yo: ![Yo](./lucia.png)
 
 ---
 
 ## 🛡️ **Acerca de mí**
+
 - 🎓 **Formación:** Especialista en tecnologías de la información y análisis de datos para la seguridad pública.
 - 🛠 **Habilidades clave:**
   - Análisis de datos criminalísticos con `Python` y `R`.
@@ -17,16 +24,18 @@
 ---
 
 ## 🖥️ **Tecnologías que manejo**
-| **Categoría**            | **Herramientas**                         |
-|---------------------------|------------------------------------------|
-| **Análisis de Datos**     | Python, R, Power BI, Tableau             |
-| **Bases de Datos**        | MySQL, PostgreSQL, MongoDB               |
-| **Ciberseguridad**        | Nessus, Wireshark, Metasploit            |
-| **Sistemas de Información Geográfica (SIG)** | QGIS, ArcGIS                   |
+
+| **Categoría**                                | **Herramientas**              |
+| -------------------------------------------- | ----------------------------- |
+| **Análisis de Datos**                        | Python, R, Power BI, Tableau  |
+| **Bases de Datos**                           | MySQL, PostgreSQL, MongoDB    |
+| **Ciberseguridad**                           | Nessus, Wireshark, Metasploit |
+| **Sistemas de Información Geográfica (SIG)** | QGIS, ArcGIS                  |
 
 ---
 
 ## 🚨 **Intereses y Áreas de Trabajo**
+
 - Diseño de sistemas para **reportes ciudadanos anónimos**.
 - Desarrollo de **aplicaciones móviles** para alertas de emergencia.
 - Integración de **IA** para predicción de tendencias delictivas.
@@ -35,6 +44,7 @@
 ---
 
 ## 📂 **Proyectos Recientes**
+
 - **Mapa Interactivo de Seguridad:**  
   Plataforma basada en `Leaflet.js` para monitorear zonas de riesgo en tiempo real.
   ![Preview](./assets/mapa-seguridad-preview.png)
@@ -45,10 +55,9 @@
 ---
 
 ## 🌐 **Cómo contactarme**
-- 📫 **Correo:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
-- 🐦 **Twitter:** [@tu-handle](https://twitter.com/tu-handle)
+
+- 📫 **Github:** [Github](https://github.com/LuciaNaygit)
 
 ---
 
-¡Gracias por visitar mi perfil! Estoy abierto a colaborar en proyectos que impulsen la **seguridad pública** y la **innovación tecnológica**. 🚀
+¡Gracias por visitar mi perfil! Estoy abierta a colaborar en proyectos que impulsen la **seguridad pública** y la **innovación tecnológica**. 🚀
