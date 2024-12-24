@@ -6,7 +6,9 @@
 
 ![Header](./banner.jpg)
 
-Esta soy yo: ![Yo](./lucia.png)
+Esta soy yo: 
+
+![Yo](./lucia.png)
 
 ---
 
